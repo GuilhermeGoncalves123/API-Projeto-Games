@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\54261396874\\Desktop\\Projeto Games\\ProjetoJogos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6D230-724E-405B-A71C-1E7AF0EC3090}|ProjetoJogos.csproj|c:\\users\\54261396874\\desktop\\projeto games\\projetojogos\\context\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6D230-724E-405B-A71C-1E7AF0EC3090}|ProjetoJogos.csproj|solutionrelative:context\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D6D230-724E-405B-A71C-1E7AF0EC3090}|ProjetoJogos.csproj|c:\\users\\54261396874\\desktop\\projeto games\\projetojogos\\domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D6D230-724E-405B-A71C-1E7AF0EC3090}|ProjetoJogos.csproj|solutionrelative:domains\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Games\\ProjetoJogos\\Domains\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domains\\Usuario.cs",
+              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Games\\ProjetoJogos\\Domains\\Usuario.cs",
+              "RelativeToolTip": "Domains\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:26:39.181Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetoJogosContext.cs",
+              "DocumentMoniker": "C:\\Users\\54261396874\\Desktop\\Projeto Games\\ProjetoJogos\\Context\\ProjetoJogosContext.cs",
+              "RelativeDocumentMoniker": "Context\\ProjetoJogosContext.cs",
+              "ToolTip": "C:\\Users\\54261396874\\Desktop\\Projeto Games\\ProjetoJogos\\Context\\ProjetoJogosContext.cs",
+              "RelativeToolTip": "Context\\ProjetoJogosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:21:50.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
